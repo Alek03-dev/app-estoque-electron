@@ -5,7 +5,7 @@ function login() {
 
     var campoPassword = document.getElementById("password").value
 
-    if( campoEmail == "alek@alek.com" && campoPassword == "admin123") {
+    if( campoEmail == "a" && campoPassword == "a") {
         window.location.replace("dashboard.html")
     } else {
 
